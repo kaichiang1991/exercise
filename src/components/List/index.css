@@ -1,0 +1,16 @@
+.item-container{
+    background-color: rgb(180, 222, 241);
+    border: burlywood 2px solid;
+    width: 500px;
+    margin: 20px auto;
+    padding-left: 5px;
+}
+
+summary{
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+}
+
+summary:hover{
+}

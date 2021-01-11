@@ -1,0 +1,19 @@
+li {
+    list-style: none;
+    margin: 10px 20px 
+}
+
+li:hover{
+    background-color: darkcyan;
+}
+
+li p{
+    display: inline;
+    padding-left: 2px;
+}
+
+.times{
+    width: 40px;
+    margin-left: 5px;
+    text-align: right;
+}
